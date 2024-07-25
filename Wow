@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002"))()
+return {
+"88800F02-04DD-44AC-8006-EEDSFEE18764",
+"88800F02-04DD-44AC-8006-EEDSFEE18764"
+}
